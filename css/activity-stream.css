@@ -1,0 +1,33 @@
+#activity-stream-results th {
+    text-align: left;
+}
+
+#activity-stream-results {
+    width: 800px;
+}
+
+#activity-stream-results .time {
+    width: 150px;
+}
+
+#activity-stream-results .user {
+    width: 150px;
+}
+
+#activity-stream-results .activity {
+    width: 500px;
+}
+
+#activity-stream-nav {
+    width: 800px;
+    margin-left: 150px;
+    line-height: 40px;;
+}
+
+#activity-stream-nav .arrow {
+    padding: 4px;
+}
+
+#activity-stream-nav a {
+    text-decoration: none;
+}
